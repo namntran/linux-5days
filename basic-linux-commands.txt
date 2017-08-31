@@ -1,0 +1,11 @@
+Basic Linux Commands
+
+ls - lists directory contents
+cd - changes the current directory
+pwd - displays the present working directory
+cat - concatenates and displays files
+echo - displays arguments to the screen
+man - displays the online manual
+exit - exits the shell or current session
+clear - clears the screen
+- l   long listing format
